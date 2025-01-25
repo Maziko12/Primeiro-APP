@@ -80,7 +80,7 @@ class _FirstPageState extends State<FirstPage> {
               child: FloatingActionButton(
                 onPressed: _incrementCounter,
                 tooltip: 'Increment',
-                child: const Icon(Icons.add),
+                child: const Icon(Icons.library_add),
               ),
             ),
           ),
